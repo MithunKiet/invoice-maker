@@ -49,4 +49,4 @@ Since everything lives in `index.html`, you can customize the invoice by editing
 
 ## License
 
-No license has been specified for this project.
+This project is licensed under the [MIT License](LICENSE).
